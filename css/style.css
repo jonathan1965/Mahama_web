@@ -112,3 +112,16 @@ a.active,a:hover {
           left:0;
       }
   }
+
+
+  .box1 {
+    background-color: lightcoral;
+  }
+
+  .box2 {
+    background-color: lightblue;
+  }
+
+  .box3 {
+    background-color: lightgreen;
+  }
